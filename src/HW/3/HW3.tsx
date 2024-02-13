@@ -25,7 +25,7 @@ export const HW3 = () => {
     // А ЗАТЕМ УБРАТЬ ЗА СОБОЙ В currentText
     setTexts(texts)
 
-  };
+  };//
 
   return (
     <div id={"hw03"}>
