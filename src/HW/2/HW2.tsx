@@ -29,7 +29,7 @@ export const HW2 = () => {
 
   // ❗ Массив с данными не трогаем!
 
-  const users = {
+  const users = { //
     myFriends:[
       { id: 1, name: 'John', age: 25, address: { street: '123 Main St', city: 'New York' } },
       { id: 2, name: 'Alice', age: 30, address: { street: '456 Elm St', city: 'San Francisco' } },
